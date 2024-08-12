@@ -1,4 +1,4 @@
-+   [使用 HTML 和 JavaScript 为 SharePoint 2013 定制解决方案](README.md)'
++   [使用 HTML 和 JavaScript 为 SharePoint 2013 定制解决方案](README.md)
 +   [一、设置您的环境](1.md)
 +   [二、SharePoint 前端解决方案简介](2.md)
 +   [三、内容编辑器和脚本编辑器 Web 部件](3.md)
